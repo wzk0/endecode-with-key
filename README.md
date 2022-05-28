@@ -14,7 +14,7 @@ git clone https://github.com/wzk0/endecode-with-key.git
 
 随后运行`example.py`
 
-![功能图](https://raw.githubusercontent.com/wzk0/photo/main/%E6%88%AA%E5%9B%BE%202022-05-28%2019-59-49.png)
+![功能图](https://raw.githubusercontent.com/wzk0/photo/main/202205282207052.png)
 
 不过我还是建议你往下看看的！
 
