@@ -24,7 +24,7 @@ git clone https://github.com/wzk0/endecode-with-key.git
 
 > 总之就是`乱乱乱`.
 
-`解密`:通过密钥的不同组合暴力破解.
+`解密`:通过密钥的不同组合暴力破解(去除加密文本中的密钥元素).
 
 ## 使用
 
